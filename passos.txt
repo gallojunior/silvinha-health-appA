@@ -4,3 +4,10 @@ git config --global user.email gallojunior@gmail.com
 
 Criar um projeto React Native com Expo
 npx create-expo-app SilvinhaHealthApp
+
+Executar o projeto:
+    Estar na pasta do projeto
+    npx expo start --localhost --android
+
+Restaurar um projeto apos clonar:
+    npm i

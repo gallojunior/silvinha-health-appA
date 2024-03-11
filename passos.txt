@@ -10,4 +10,6 @@ Executar o projeto:
     npx expo start --localhost --android
 
 Restaurar um projeto apos clonar:
+    cd SilvinhaHealthApp
     npm i
+
